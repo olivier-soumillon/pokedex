@@ -20,9 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29688ab0-3eef-47af-be09-2d70055a74b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/data/pokemons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/data/trainers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/allPokemons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/allTrainers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/friends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/pokemon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/resolvers/trainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/graphql/typeDefs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596375252476</updated>
-      <workItem from="1596375253593" duration="2751000" />
+      <workItem from="1596375253593" duration="12185000" />
     </task>
     <servers />
   </component>
@@ -79,5 +90,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596390378081">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596390378081" />
   </component>
 </project>
